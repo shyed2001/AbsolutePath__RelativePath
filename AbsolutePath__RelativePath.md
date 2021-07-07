@@ -1,8 +1,8 @@
 ---
 
-Title :  AbsolutePath__RelativePath
-Subject : Absolute file Path and  Relative file Path
-Author : Shyed Shahriar Housaini
+Title :  AbsolutePath__RelativePath.
+Subject : Absolute file Path and  Relative file Path.
+Author : Shyed Shahriar Housaini.
 Date : 07/07/2021
 ---
 
@@ -11,6 +11,7 @@ Date : 07/07/2021
 When linking to a page or file on your site, knowing the difference between a relative path and absolute path is helpful. The following sections contain information on these differences for each of the major operating systems and how to appropriately link files to a web page. To proceed, choose your topic of interest from the following list.
 
 ## Path differences in Windows
+
 ### Windows absolute path
 > C:\Windows\calc.exe
 
@@ -63,7 +64,6 @@ https://www.computerhope.com/oh.htm
 Internet URL relative path
 oh.htm
 Finally, in this last example, the Internet absolute path is the domain and the web page on that domain. Web developers creating links to other pages can use a relative path if the file their linking from is in the same directory. See our URL definition for a full explanation of all the parts that make a URL.
-
 
 # How to create a working relative path
 
